@@ -50,5 +50,5 @@ def main():
     application.run_polling()
 
 
-if name == "__main__":
+__name__ == "__main__":
     main()
